@@ -1,6 +1,6 @@
-# Next.js + Tailwind CSS Example
+# React + Next.js + Tailwind + Sanity.io
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This is a simple clone of popular website Medium. It uses SSR and ISR (in certain case)
 
 ## Deploy your own
 
